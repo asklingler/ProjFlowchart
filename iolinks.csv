@@ -1,0 +1,8 @@
+INPUTNAME,FORMAT,OWNER,OUTPUTNAME
+Line17History,csv,RDA,Peak Forecast
+EventBasedDR,Excel,RevenueAccounting,Peak Forecast
+BTM PV History,Excel,PRF,Peak Forecast
+Peak Forecast,csv,Rates,HourlyLoadProfile
+Monthly Sales\n from Integration Model,Excel,Rates,HourlyLoadProfile
+HLFS Shapes DB,Database,Rates,HourlyLoadProfile
+HLFS Shapes Raw,csv,RDA,HLFS Shapes DB
